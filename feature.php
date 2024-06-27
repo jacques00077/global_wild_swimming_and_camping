@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Features</title>
+
+    <link rel="stylesheet" href="style.css">
+    
+    <link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+    
+</head>
+<body>
+  <!-- Navbar -->
+  <header>
+        <div class="nav container">
+            <a href="index.php" class="logo"><i class='bx bx-swim'>Global</i>WSC</a>
+            <!--- Menu Icon -->
+            <input type="checkbox" name="" id="menu">
+            <label for="menu" <i class='bx bx-menu' id="menu-icon"></i></label>
+            <!-- Nav List -->
+            <ul class="navbar">
+                <li><a href="index.php">Home</a></li>
+                <li><a href="information.php">Information</a></li>
+                <li><a href="contact.php">Contact</a></li>
+                <li><a href="review.php">Review</a></li>
+                <li><a href="pitch.php">Pitch</a></li>
+                <li><a href="local.php">Local Attraction</a></li>
+                <li><a href="feature.php">Features</a></li>
+               
+            </ul>
+            
+            
+        </div>
+
+    </header>
+
+    <section class="f container" id="f">
+        <div class="heading">
+            <h2><span>Features</span></h2>
+            <p>Leisure Facilities and Amenities</p>
+         
+        </div>
+    </section>
+
+
+       <!----- features1 ---->
+    <section class="fea container" id="fea">
+        <div class="heading">
+            <h2><span>Car Parks</span></h2>
+            <p>Rules</p>
+        </div>
+        <div class="fea-con container">
+            <!--- Box 1 -->
+        <div class="aah">
+         <div class="bah">
+            <div class="bah-inner">
+                <div class="f-face">
+                    <img src="images/park1.jpeg" alt="jac">
+                </div>
+                <div class="b-face">
+                    <h2>Car Park at Campsite</h2>
+                    <h3>Rules</h3>
+                    <ul>
+                       <li><p> No Double Parking</p></li>
+                       <li><p> Parallel Parking Only</p></li>
+                       <li><p> Disable Car Park for Only Disables</p></li>
+                       <li><p> No Trash Allowed</p></li>
+                    </ul>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+            <!----- Box 2--->
+        <div class="aah">
+         <div class="bah">
+            <div class="bah-inner">
+                <div class="f-face">
+                    <img src="images/parkwat2.jpeg" alt="jac">
+                </div>
+                <div class="b-face">
+                    <h2>Car Park at Waterfall</h2>
+                    <h3>Rules</h3>
+                    <ul>
+                       <li><p> No Parking Around 50m the Fall</p></li>
+                       <li><p> No Fighting Allowed</p></li>
+                       <li><p> No Illegal Drugs Allowed</p></li>
+                       <li><p> No Stealing Allowed</p></li>
+                    </ul>
+                </div>
+               
+            </div>
+        </div>
+    </div>
+            <!----- Box 3--->
+        <div class="aah">
+         <div class="bah">
+            <div class="bah-inner">
+                <div class="f-face">
+                    <img src="images/dispark1.jpeg" alt="jac">
+                </div>
+                <div class="b-face">
+                    <h2>Car Park for Disables</h2>
+                    <h3>Rules</h3>
+                    <ul>
+                       <li><p> No Double Parking</p></li>
+                       <li><p> Parallel Parking Only</p></li>
+                       <li><p> Disable Car Park for Only Disables</p></li>
+                       <li><p> No Trash Allowed</p></li>
+                    </ul>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+            
+            
+    </div>
+    </section>
+
+       <!----- features 2 ---->
+       <section class="fea container" id="fea">
+        <div class="heading">
+            <h2><span>Entertainment</span></h2>
+            <p>Rules</p>
+        </div>
+        <div class="fea-con container">
+            <!--- Box 1 -->
+        <div class="aah">
+         <div class="bah">
+            <div class="bah-inner">
+                <div class="f-face">
+                    <img src="images/img2.jpg" alt="jac">
+                </div>
+                <div class="b-face">
+                    <h2>Swimming Entertainment</h2>
+                    <h3>Rules</h3>
+                    <ul>
+                    <li><p> No Weapons Allowed</p></li>
+                       <li><p> No Fighting Allowed</p></li>
+                       <li><p> No Illegal Drugs Allowed</p></li>
+                       <li><p> No Stealing Allowed</p></li>
+                    </ul>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+            <!----- Box 2--->
+        <div class="aah">
+         <div class="bah">
+            <div class="bah-inner">
+                <div class="f-face">
+                    <img src="images/ent_img4.jpg" alt="jac">
+                </div>
+                <div class="b-face">
+                    <h2>Singing Entertainment</h2>
+                    <h3>Rules</h3>
+                    <ul>
+                       <li><p> No Weapons Allowed</p></li>
+                       <li><p> No Fighting Allowed</p></li>
+                       <li><p> No Illegal Drugs Allowed</p></li>
+                       <li><p> No Stealing Allowed</p></li>
+                    </ul>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+            <!----- Box 3--->
+        <div class="aah">
+         <div class="bah">
+            <div class="bah-inner">
+                <div class="f-face">
+                    <img src="images/ent_img5.jpg" alt="jac">
+                </div>
+                <div class="b-face">
+                    <h2>Kids Entertainment</h2>
+                    <h3>Rules</h3>
+                    <ul>
+                       <li><p> No Weapons Allowed</p></li>
+                       <li><p> No Fighting Allowed</p></li>
+                       <li><p> No Illegal Drugs Allowed</p></li>
+                       <li><p> No Stealing Allowed</p></li>
+                    </ul>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+            
+            
+    </div>
+    </section>
+
+     <!----- features 2 ---->
+     <section class="fea container" id="fea">
+        <div class="heading">
+            <h2><span> Other Amenities</span></h2>
+            <p>Rules</p>
+        </div>
+        <div class="fea-con container">
+            <!--- Box 1 -->
+        <div class="aah">
+         <div class="bah">
+            <div class="bah-inner">
+                <div class="f-face">
+                    <img src="images/slider-img77.jpg" alt="jac">
+                </div>
+                <div class="b-face">
+                    <h2>Swimming Session</h2>
+                    <h3>Rules</h3>
+                    <ul>
+                    <li><p> No Weapons Allowed</p></li>
+                       <li><p> No Fighting Allowed</p></li>
+                       <li><p> No Illegal Drugs Allowed</p></li>
+                       <li><p> No Stealing Allowed</p></li>
+                    </ul>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+            <!----- Box 2--->
+        <div class="aah">
+         <div class="bah">
+            <div class="bah-inner">
+                <div class="f-face">
+                    <img src="images/wild_img2.jpg" alt="jac">
+                </div>
+                <div class="b-face">
+                    <h2>Kayaking & Canoeing</h2>
+                    <h3>Rules</h3>
+                    <ul>
+                       <li><p> No Weapons Allowed</p></li>
+                       <li><p> No Fighting Allowed</p></li>
+                       <li><p> No Illegal Drugs Allowed</p></li>
+                       <li><p> No Stealing Allowed</p></li>
+                    </ul>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+            <!----- Box 3--->
+        <div class="aah">
+         <div class="bah">
+            <div class="bah-inner">
+                <div class="f-face">
+                    <img src="images/LM.jpg" alt="jac">
+                </div>
+                <div class="b-face">
+                    <h2>Hiking</h2>
+                    <h3>Rules</h3>
+                    <ul>
+                       <li><p> Have the proper Gear</p></li>
+                       <li><p> No Fighting Allowed</p></li>
+                       <li><p> No Illegal Drugs Allowed</p></li>
+                       <li><p> No Stealing Allowed</p></li>
+                    </ul>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+            
+            
+    </div>
+    </section>
+     <!-------- Footer ----->
+     <section class="fter">
+        <div class="fter-container container">
+            <h2>GWSC</h2>
+            <div class="fter-box">
+                <h3>Quick Links</h3>
+                <a href="index.php">Home</a>
+                <a href="information.php">Information</a>
+                <a href="contact.php">Contact</a>
+                <a href="review.php">Review</a>
+                <a href="pitch.php">Pitch</a>
+                <a href="local.php">Attraction</a>
+                <a href="feature.php">Features</a>
+            </div>
+            <div class="fter-box">
+                <h3>Extra Links</h3>
+                <a href="#">Privacy Policy</a>
+                <a href="local.php">Location</a>
+                <a href="pitch.php">Tent</a>
+            </div>
+            <div class="fter-box">
+                <h3>Contact</h3>
+                <a href="#">+233 (0)269 082028</a>
+                <a href="#">gwsc@gmail.com</a>
+                <div class="social">
+                    <a href="#"><i class='bx bxl-facebook'></i></a>
+                    <a href="#"><i class='bx bxl-twitter'></i></a>
+                    <a href="#"><i class='bx bxl-instagram'></i></a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!------ Copyright ---->
+    <div class="copyright">
+        <p>You are here &#169; Jacques All Right Reserved</p>
+    </div>
+</body>
+</html>
+
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Flip Profile Card </title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/4086d647bc.js"></script>
+</head>
+<body>
+    
+    
+</body>
+</html>
