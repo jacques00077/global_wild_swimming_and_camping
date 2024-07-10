@@ -1,4 +1,25 @@
 # Global Wild Swimming and Camping
+## Table of Contents
+
+- [Introduction](#introduction)
+  - [Links](#links)
+- [Inspiration 🌟](#inspiration-🌟)
+- [Installation 🛠️](#installation-🛠️)
+- [Usage 🚀](#usage-🚀)
+  - [Home Page](#home-page)
+  - [Search and Discover](#search-and-discover)
+  - [User Interaction](#user-interaction)
+- [Contributing 🤝](#contributing-🤝)
+- [Challenges 😅](#challenges-😅)
+  - [Technical Challenges](#technical-challenges)
+  - [Non-Technical Challenges](#non-technical-challenges)
+- [Progress Assessment 📈](#progress-assessment-📈)
+  - [Completed as Planned](#completed-as-planned)
+  - [Incomplete Aspects](#incomplete-aspects)
+- [Next Iteration Vision 🌱](#next-iteration-vision-🌱)
+- [Related Projects 🔗](#related-projects-🔗)
+- [Licensing 📜](#licensing-📜)
+
 
 ## Introduction
 
