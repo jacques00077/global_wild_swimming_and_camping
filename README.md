@@ -47,7 +47,7 @@ To run this project locally, follow these steps:
 
 1.	 **Home Page: **
 On page load, you'll be greeted with a large cover image, the project name, and a brief description. Navigation elements in the header bar allow you to access different sections like "Locations" and "Community". A button labeled "Learn more" navigates you to the main application.
-![Home page screenshot](images/alx project.jpg)
+<img width=50% src="images/alx project.jpg">
 
 3.	**Search and Discover: **
 Use the search bar and filters to find wild swimming spots and camping sites. You can view detailed information, read reviews, and see photos uploaded by other users.
