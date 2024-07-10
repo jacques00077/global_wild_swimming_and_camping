@@ -53,8 +53,8 @@ On page load, you'll be greeted with a large cover image, the project name, and 
 Use the search bar and filters to find wild swimming spots and camping sites. You can view detailed information, read reviews, and see photos uploaded by other users.
 
 4.	**User Interaction: **Create an account to rate locations, write reviews, and upload photos. Join discussions in the community section to share tips and experiences with other outdoor enthusiasts.
-<img width=70% src="images/alx project1.jgp">
-<img width=70% src="images/alx project2.jgp">
+<img width=70% src="images/alx project1.jpg">
+<img width=70% src="images/alx project2.jpg">
 ## Contributing
 
 We welcome contributions to improve this project. To contribute:
